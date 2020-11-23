@@ -1,0 +1,274 @@
+/* Extra small devices (portrait phones, less than 576px) */
+
+@media (max-width: 576px) {
+
+	.slider{
+
+		height: 1046px
+
+	}
+
+	.slider_content h1{
+
+		text-align: center;
+
+	}
+
+	.slider_content h2{
+
+		text-align: center;
+
+	}
+
+	.slider_content p{
+
+		text-align: center;
+
+	}
+
+	.c_h1{
+
+		margin-top: 150px;
+	}
+
+
+	.menu ul li a{
+
+
+		padding: 0 0 !important;
+		text-align: right; 
+	}
+
+	.s_text h2{
+
+		text-align: center;
+
+	}
+	.s_text p{
+		text-align: center;
+	}
+
+	.slider_icon{
+		text-align: center;
+	}
+
+
+	.f-submit{
+		margin-top: 20px;
+	}
+
+	.f_ico{
+		width: 25%;
+		text-align: center;
+		padding-bottom: 10px;
+	}
+
+
+}
+
+
+
+/*==========================================================================*/
+/*==========================================================================*/
+
+
+
+
+
+@media (max-width: 575.98px) {
+
+	.slider{
+
+		height: 1046px
+
+	}
+
+	.slider_content h1{
+
+		text-align: center;
+
+	}
+
+	.slider_content h2{
+
+		text-align: center;
+
+	}
+
+	.slider_content p{
+
+		text-align: center;
+
+	}
+
+	.c_h1{
+
+		margin-top: 150px;
+	}
+
+
+	.menu ul li a{
+
+
+		padding: 0 0 !important;
+		text-align: right; 
+	}
+
+	.s_text h2{
+
+		text-align: center;
+
+	}
+	.s_text p{
+		text-align: center;
+	}
+
+}
+
+.slider_icon{
+	text-align: center;
+}
+
+.f_ico{
+	width: 25%;
+	text-align: center;
+	padding-bottom: 10px;
+}
+
+}
+
+
+/*==========================================================================*/
+/*==========================================================================*/
+
+
+
+
+
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+
+
+
+	.slider{
+		height: 1030px;
+		background-color: #fcdb00;
+
+	}
+
+	.menu ul li a{
+
+
+		padding: 0 0 !important;
+		text-align: right; 
+	}
+
+	.c_h1{
+
+		margin-top: 150px;
+	}
+
+
+	.s_text h2{
+
+		text-align: center;
+
+	}
+	.s_text p{
+		text-align: center;
+	}
+
+	.slider_icon{
+		text-align: center;
+	}
+
+	.f_ico{
+		width: 45%;
+
+	}
+}
+
+
+
+/*==========================================================================*/
+/*==========================================================================*/
+
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+
+	.menu ul li a{
+
+
+		padding: 0 0 !important;
+		text-align: right; 
+	}
+
+	.slider_icon{
+		font-size: 40px !important;
+		text-align: left;
+
+	}
+
+	.f_ico{
+		width: 75%;
+		text-align: center;
+
+	}
+
+}
+
+
+
+
+/*==========================================================================*/
+/*==========================================================================*/
+
+
+
+
+
+
+
+/* Large devices (desktops, 992px and up) */ 
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+	.slider_icon{
+		font-size: 40px !important;
+		text-align: left;
+
+	}
+
+	.f_ico{
+	width: 85%;
+}
+
+
+}
+
+
+
+
+/*==========================================================================*/
+/*==========================================================================*/
+
+
+
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+
+	.slider_icon{
+		font-size: 40px !important;
+		text-align: left;
+
+	}
+
+	.f_ico{
+	width: 85%;
+}
+
+
+}
